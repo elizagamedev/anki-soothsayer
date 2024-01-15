@@ -1,0 +1,10 @@
+{
+  "answer_field": "",
+  "config_version": 0,
+  "max_retries": 5,
+  "openai_api_key": "",
+  "question": "",
+  "request_options": "{\"model\": \"gpt-3.5-turbo\"}",
+  "tag": "soothsayer",
+  "timeout": 5
+}

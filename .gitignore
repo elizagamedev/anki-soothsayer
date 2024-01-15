@@ -1,0 +1,4 @@
+/.direnv
+__pycache__
+/*.ankiaddon
+/meta.json
