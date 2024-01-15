@@ -37,7 +37,8 @@ A tag to add to completed notes. If blank, no tag is added.
 
 ### OpenAI API Key
 Your private OpenAI key. You can find it
-[here](https://platform.openai.com/api-keys) if you have an account.
+[here](https://platform.openai.com/api-keys) if you have an account. **Note that
+this will be stored in plaintext in your Anki configuration.**
 
 ### Timeout
 Timeout in seconds before failing a request.
